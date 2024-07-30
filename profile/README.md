@@ -72,26 +72,12 @@
            <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/mobile.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/nodejs.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top; margin:6px 4px"  alt=""/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react_native.svg" height="35px" style="vertical-align:top; margin:6px 4px" alt=""/>
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/sass.svg" height="35px" style="vertical-align:top; margin:6px 4px" alt=""/>
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="35px" style="vertical-align:top; margin:6px 4px" alt=""/>
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top; margin:6px 4px" alt=""/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/xcode.svg" height="35px" style="vertical-align:top; margin:6px 4px" alt=""/>
 
 
 </p>
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
 
-<!--START_SECTION:waka-->
-
-```text
-Week: 07 August, 2020 - 14 August, 2020
-
-JavaScript   9 hrs 53 mins   ██████████████████░░░░░░░   74.31 % 
-JSON         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Other        58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Prolog       33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Groovy       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-```
 
