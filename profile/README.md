@@ -12,7 +12,7 @@
       <br>We are currently seeking enthusiastic and skilled individuals to join our dynamic team. 
       <br>If you share our passion for technology and open-source development, we would love to see your resume. 
       <br>Send it to us at <em>chinabga@gmail.com</em>, and let's create something extraordinary together.
-      <br>After the email is delivered, simply fill in [the questionnaire](https://daudmfrqwrm.feishu.cn/share/base/form/shrcnpJJy5wScepuuFFklAhhsyd) and we will contact you.
+      <br>After the email is delivered, simply fill in <a href="https://daudmfrqwrm.feishu.cn/share/base/form/shrcnpJJy5wScepuuFFklAhhsyd">the questionnaire</a> and we will contact you.
   </samp>
   <br/>
   <br/>
