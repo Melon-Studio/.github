@@ -12,6 +12,7 @@
       <br>We are currently seeking enthusiastic and skilled individuals to join our dynamic team. 
       <br>If you share our passion for technology and open-source development, we would love to see your resume. 
       <br>Send it to us at <em>chinabga@gmail.com</em>, and let's create something extraordinary together.
+      <br>After the email is delivered, simply fill in [the questionnaire](https://daudmfrqwrm.feishu.cn/share/base/form/shrcnpJJy5wScepuuFFklAhhsyd) and we will contact you.
   </samp>
   <br/>
   <br/>
@@ -24,7 +25,7 @@
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> We are currently learning ...
 
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gesture.jpeg" width="30px"  alt=""/> some some some ...
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gesture.jpeg" width="30px"  alt=""/> many things ...
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> We are looking to collaborate on ...
 
@@ -63,7 +64,7 @@
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/sass.svg" height="35px" style="vertical-align:top; margin:6px 4px" alt=""/>
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="35px" style="vertical-align:top; margin:6px 4px" alt=""/>
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top; margin:6px 4px" alt=""/>
-
+            etc...
 
 </p>
 
