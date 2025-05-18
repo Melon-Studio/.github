@@ -6,7 +6,8 @@
 
 <p align="center" >
   <samp>
-      <em>Melon Studio</em> is a vibrant software development organization that actively engages with the open-source community.  
+      Unfortunately, the studio has been disbanded due to internal adjustment, the relevant projects have been transferred to the organization <a href="https://github.com/Lunova-Studio">Lunova Studio</a>, and the subsequent development and maintenance work will be undertaken by Lunova Studio.
+      <br><em>Melon Studio</em> is a vibrant software development organization that actively engages with the open-source community.  
       <br>We specialize in crafting innovative game-related applications and system-level software. 
       <br>At present (<em>2024</em>), our organization members are still composed of students. 
       <br>We are currently seeking enthusiastic and skilled individuals to join our dynamic team. 
